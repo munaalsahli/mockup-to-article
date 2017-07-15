@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+tracing skills 
+  * What has been easy?
+to use the tags 
+  * What has been difficult?
+i think using old and new html tags 
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+i have been ask my friend about should i have to use bold tag <b> or <strong> and also i have to back searching  for refreshing my memory about tags 
+
+---
+
+Your response goes here!
